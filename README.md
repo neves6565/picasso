@@ -7,3 +7,4 @@ Você pode entrar em contato comigo 📫
 ![](![220198](https://github.com/neves6565/picasso/assets/170127354/55522ea7-cf71-4ed1-84dd-712f45a2bc5a)
 
 *atençao* nao sou *gay*
+          >escrito por gabriel roque
