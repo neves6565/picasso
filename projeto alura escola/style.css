@@ -1,0 +1,28 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
+
+
+header {
+    border-bottom: solid 3px red;
+    padding: 10px;
+    padding-inline: 750px;
+    font-size: 80px; 
+    font-family:'Times New Roman', Times, serif;
+    color: red;
+}
+
+section{
+    background: red;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    padding-inline: 700px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamado-texto{
+    margin-right: 5%;
+}

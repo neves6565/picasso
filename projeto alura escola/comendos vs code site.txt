@@ -1,0 +1,10 @@
+<header> :cabecalho da pagina
+
+<h1>:titulo
+
+<p>: paragrafo
+
+
+<body>: corpo da pagina
+
+<head>: cabeça
